@@ -1,2 +1,0 @@
-*.zip filter=lfs diff=lfs merge=lfs -text
-EC_M55M1_HELMET_DETECT_V1.00.zip filter=lfs diff=lfs merge=lfs -text
